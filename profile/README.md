@@ -15,4 +15,4 @@ momodel.cn是一个更全面、更深入的学习网站，我们提供了一条�
 👨‍🏫 一对一交流：扫描下方二维码，开启一对一的深入交流。  
 # 关注我们
 扫描下方二维码关注公众号，获取第一手AI咨询和学习资料  
-![](https://imgbed.momodel.cn/sprintCamp/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+<div align=center>![](https://imgbed.momodel.cn/sprintCamp/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
