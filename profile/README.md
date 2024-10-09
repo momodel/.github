@@ -32,12 +32,13 @@ Mo 卡片通过刷抖音、学单词一样的方式，让体系化复杂的AI �
 🤔 答疑服务：遇到难题？我们专业的答疑团队随时待命，为您答疑解惑。  
 👨‍🏫 一对一交流：扫描下方二维码，开启一对一的深入交流。  
 <div align=center>
-	<img src="https://imgbed.momodel.cn/sprintCamp/%E5%B0%8FMo%E8%80%81%E5%B8%88%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" style="width: 20%; width: 20%; height: auto;"/>
+	<img src="https://imgbed.momodel.cn/sprintCamp/%E6%96%B0%E7%89%88%E5%B0%8FMo%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1.png" style="width: 20%; width: 20%; height: auto;"/>
 </div>
 <br/>
-# 关注我们
+
+# **关注我们**
 <br/>
 扫描下方二维码关注公众号，获取第一手AI咨询和学习资料  
 <div align=center>
-	<img src="https://imgbed.momodel.cn/sprintCamp/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png"/>
+	<img src="https://imgbed.momodel.cn/sprintCamp/%E6%96%B0%E7%89%88%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png" style="width: 20%; width: 20%; height: auto;"/>
 </div>
